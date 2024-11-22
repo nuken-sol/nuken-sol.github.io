@@ -2,12 +2,12 @@
   "name": "Nuclear Biden",
   "symbol": "NUKEN",
   "description": "Chocolate chocolate chip",
-  "image": "https://nuken-sol.github.io/nuken-metadata/nuken.png",
+  "image": "https://nuken-sol.github.io/IMG_5599.jpg",
   "decimals": 9,
   "properties": {
     "files": [
       {
-        "uri": "https://nuken-sol.github.io/nuken-metadata/nuken.png",
+        "uri": "https://nuken-sol.github.io/IMG_5599.jpg",
         "type": "image/png"
       }
     ]
